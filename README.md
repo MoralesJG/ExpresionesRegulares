@@ -13,7 +13,7 @@ El evaluador permite ingresar la expresion metematica separando cada caracter ya
 ### Descarga
 
 - Ingresar al repositorio [AnalizadorExpresiones](https://github.com/MoralesJG/ExpresionesRegulares)
-- Localizar el boton verde "<> Code"
+- Localizar el boton "<> Code"
 - Descargar el archivo .ZIP
 - Descomprimir el archivo .ZIP y posteriormente abrir el proyecto.
 
